@@ -1,0 +1,34 @@
+body
+{
+    background: linear-gradient(to bottom right,blue,cyan,magenta);
+    background-size: cover;
+}
+
+.back
+{
+    margin-left: 1350px;
+    margin-top: 5px;
+    font-size: 20px;
+    border: 4px solid black;
+     border-radius: 20px;
+}
+
+h1
+{
+    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: red;
+    width: 300px;
+    margin-top: 0px;
+    background-color: greenyellow;
+    border-radius: 25px;
+}
+
+canvas
+{
+    box-shadow: 28px 28px 15px rgb(240, 67, 67);
+    border-radius: 25px;
+    border: 5px groove purple;
+}
+

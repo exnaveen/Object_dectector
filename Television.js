@@ -4,7 +4,7 @@ objects = [];
 
 function preload()
 {
-    img = loadImage('Fruit_bowl.jpeg');
+    img = loadImage('Television.avif');
 }
 
 function setup()
@@ -51,6 +51,5 @@ function gotResults(error, results)
         console.log(results);
         objects = results;
 }
-
 
 
